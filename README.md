@@ -1,1 +1,0 @@
-Système de freinage régénératif
